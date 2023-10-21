@@ -3,21 +3,21 @@
   <groupId>com.jcommon</groupId>
   <artifactId>common-widget</artifactId>
   <versioning>
-    <lastUpdated>20231021165516</lastUpdated>
+    <lastUpdated>20231021181739</lastUpdated>
     <snapshot>
-      <timestamp>20231021.165516</timestamp>
+      <timestamp>20231021.181739</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20231021.165516-1</value>
-        <updated>20231021165516</updated>
+        <value>1.0.0-20231021.181739-1</value>
+        <updated>20231021181739</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20231021.165516-1</value>
-        <updated>20231021165516</updated>
+        <value>1.0.0-20231021.181739-1</value>
+        <updated>20231021181739</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
